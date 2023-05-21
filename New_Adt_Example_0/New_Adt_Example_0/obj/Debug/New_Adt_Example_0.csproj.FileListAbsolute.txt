@@ -1,0 +1,29 @@
+C:\Users\RayanGate\source\repos\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.exe.config
+C:\Users\RayanGate\source\repos\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.exe
+C:\Users\RayanGate\source\repos\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.pdb
+C:\Users\RayanGate\source\repos\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.exe
+C:\Users\RayanGate\source\repos\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\DS\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.exe.config
+C:\Users\RayanGate\Desktop\Project\DS\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\DS\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\Project\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\Project\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.exe.config
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.pdb
+C:\Users\young sinatra\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.exe.config
+C:\Users\young sinatra\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.exe
+C:\Users\young sinatra\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\bin\Debug\New_Adt_Example_0.pdb
+C:\Users\young sinatra\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.csproj.AssemblyReference.cache
+C:\Users\young sinatra\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.csproj.SuggestedBindingRedirects.cache
+C:\Users\young sinatra\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.csproj.CoreCompileInputs.cache
+C:\Users\young sinatra\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.exe
+C:\Users\young sinatra\Desktop\Project\C Sharp\DS\New_Adt_Example_0\New_Adt_Example_0\obj\Debug\New_Adt_Example_0.pdb
